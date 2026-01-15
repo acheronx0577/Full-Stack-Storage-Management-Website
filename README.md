@@ -32,7 +32,7 @@
 
 ## <a name="introduction"></a>🤖 Introduction
 
-A comprehensive cloud storage solution that enables users to upload, manage, and share files seamlessly. Built with the latest web technologies including React 19, Next.js 15, and Appwrite backend services.
+A comprehensive cloud storage solution that enables users to upload, manage, and share files seamlessly. Built with the latest web technologies including React 19, Next.js 15, and Appwrite backend services!
 
 ## <a name="tech-stack"></a>⚙️ Tech Stack
 
